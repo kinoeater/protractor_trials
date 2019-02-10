@@ -1,4 +1,4 @@
-describe('Free crm title test',function(){
+describe('multiple test blocks',function(){
 
   // Objects
   var firstnumber = element(by.model('first'));
